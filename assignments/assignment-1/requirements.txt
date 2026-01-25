@@ -3,4 +3,10 @@ pandas
 scikit-learn
 scipy
 matplotlib
+seaborn
 jupyter
+shap
+lazypredict
+xgboost
+lightgbm
+lime

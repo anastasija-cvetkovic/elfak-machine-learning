@@ -4,5 +4,5 @@
 4. Izabrati nekoliko ponuđenih algoritama za rešavanje problema i uporediti dobijene rezultate.
 5. Optimizovati hiperparametre izabranih algoritama mašinskog učenja
 6. Izvršiti detalju analizu interpretabilnosti dobijenih modela mašinskog učenja (feature importance, LIME, SHAP vrednosti)
-Razmotriti mogućnost redukcije dimenzionalnosti problema. 
-Izvršiti analizu dobijenih rezultata i pripremti detaljnu diskusiju.
+7. Razmotriti mogućnost redukcije dimenzionalnosti problema. 
+8. Izvršiti analizu dobijenih rezultata i pripremti detaljnu diskusiju.
